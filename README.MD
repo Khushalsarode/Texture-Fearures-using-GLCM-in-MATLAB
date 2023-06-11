@@ -8,13 +8,13 @@
  	b. Entropy
 	c. Homogeneity
 	d. Contrast
-2. To execute the code in the TEXTUREFEATUREGLCM.m file, paste ( the file in the directory) matlab.
-3. Then before executing the code user need to add/paste image in the app folder of application (application directory) 
-4. Pass the image name to the image reader command as given below:-
-		i = imread(‘img.jpg');
+1. To execute the code in the TEXTUREFEATUREGLCM.m file, paste ( the file in the directory) matlab.
+2. Then before executing the code user need to add/paste image in the app folder of application (application directory) 
+3. Pass the image name to the image reader command as given below:-
+     `i = imread(‘img.jpg');`
      Here img.jpg is the image to be passed.
-5. All set to run!! Run the code !!
-6. The output produced 
+4. All set to run!! Run the code !!
+5. The output produced 
  	a. Above mentioned texture values are shown in vector features=[ ].
 	b. Image and its grey scale equivalent is sub plotted.
 	c. Also the graph is shown of above texture values.
