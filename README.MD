@@ -3,8 +3,7 @@
 - TEXTUREFEATUREGLCM.m 
 -- source code file
 
-———————————————————————————————————————————-
-The code given in folder is to extract the basic features of image user provide:-
+- The code given in folder is to extract the basic features of image user provide:-
  	a. Energy
  	b. Entropy
 	c. Homogeneity
@@ -19,16 +18,10 @@ The code given in folder is to extract the basic features of image user provide:
  	a. Above mentioned texture values are shown in vector features=[ ].
 	b. Image and its grey scale equivalent is sub plotted.
 	c. Also the graph is shown of above texture values.
-———————————————————————————————————————————
 
 
-
-TEXTUREFEATUREGLCM_GUI.mlapp (user interface)
+# TEXTUREFEATUREGLCM_GUI.mlapp (UI) #
 ———————————————————————————————————————————-
-To run the application install the application by going to the app section in matlab and choose the install app button and select the .mlapp file.
-Open the app and press the INSERT button to select the image from your system files.——————————————————————————————————————————
+- To run the application install the application by going to the app section in matlab and choose the install app button and select the .mlapp file.
+- Open the app and press the INSERT button to select the image from your system files.
 
-
-
-	
-This project is made by Rajat savdekar student of 2nd year engineering semester 3rd mini project, Mumbai university.
