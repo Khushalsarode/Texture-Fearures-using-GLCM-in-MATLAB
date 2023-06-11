@@ -1,6 +1,7 @@
-#TEXTURE EXTRACTION FEATURES USING GLCM
+# TEXTURE EXTRACTION FEATURES USING GLCM #
 ——————————————————————————————————————————
-TEXTUREFEATUREGLCM.m source code file
+- TEXTUREFEATUREGLCM.m 
+-- source code file
 
 ———————————————————————————————————————————-
 The code given in folder is to extract the basic features of image user provide:-
